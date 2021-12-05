@@ -3,6 +3,7 @@ download twitch channel subscription list and select random sub from the list fr
 
 
 ## Setup
+![alt text](https://github.com/hackertron/TwitchSubsGiveaway/blob/main/twitch_dash.png)
 Follow step 1 from the docs : https://dev.twitch.tv/docs/api/ ( creating new application)
 1. create new application on https://dev.twitch.tv/console
 2. Get client_id and client_secret from application dashboard
